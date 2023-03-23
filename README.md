@@ -2,5 +2,6 @@
 
 Just some practice with three.js and cannon-es
 
- 1npm i
- 2parcel index.js
+ 1-npm i
+ 
+ 2-parcel index.js
